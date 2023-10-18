@@ -4,10 +4,8 @@ import numpy as np
 import time
 import tqdm
 
-cid = ['bf313ecf796a4bfbaaaeb4c26bc8190e','acc8d1ac25f04823986ba4ab423ca9c4','b0d7a8b88bf049fab7ddd19c083b76d9','5f95e8ca95f2449b97be4391cd60c08c', 
-       'e094eddbfb6d4bb4895e6968d2c96084', '74ab37b86a3743c29c7ed53c4c0fb7d8']
-secret = ['23ab2b06a5e64e9280ad3be6d3c3ca68','9b8631c746194215baabd0d25e7dcdbf','42d7f03fdaba4318ab3994b2921bdae3','55f20211544e4e92bdfa30904301f7e5', 
-          '0f6e7ffec8cf48d985582bada6115156', '18286ffffc2846e9a170d14ab8f5509c']
+cid = [] #add cid
+secret = [] #add secret keys
 CURR_IDX = 0
 
 
